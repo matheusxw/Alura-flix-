@@ -1,5 +1,5 @@
 body{
-background-color: rgba(12, 141, 158, 0.964);
+background-color: rgba(0, 0, 0, 0.964);
 color: rgb(228, 228, 228);
 font-family: "Gravitas One", serif;;
 margin: 0px;
@@ -18,4 +18,14 @@ h1{
 
 p{
     font-size: 30px;
+}
+
+section{
+background-color: rgba(0, 0, 0, 0.83);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+
 }
